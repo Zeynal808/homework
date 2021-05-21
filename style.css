@@ -1,0 +1,167 @@
+body
+{
+    height: 100vh;
+    background-image: url(./concrete_seamless.png);
+}
+.navbar-nav
+{
+    margin-left: auto;
+}
+.navbar-brand
+{  
+    
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-left: 10%;
+    font-size: 2em;
+    background-color: #076143;
+    margin-top: -10px;
+    margin-bottom: -8px;
+    width: 30%;
+    text-align: center;
+    padding: 20px;
+    
+}
+
+nav
+{
+   margin-bottom: 40px; 
+}
+.nav-link
+{
+    font-size: 1.3em;
+    margin-right: 10px;
+}
+#abouth1
+{
+    display: block;
+    width: 100%;
+    
+    color: #076143;
+    border-bottom: 2px #076143 solid;
+
+}
+.mainabout
+{
+    background-color: white;
+    padding: 30px;
+    box-sizing: border-box;
+    position: relative;
+    
+}
+.contact{
+    background:white;
+    height: 100%;
+    padding: 30px;
+   
+}
+.contact h2{
+    font-size: 1.8em;
+    color: #076143;
+    text-align: center;
+    margin-top: 15px;
+   
+    
+}
+.contact img
+{
+    width: 60px;
+    margin-left: 2px;
+  
+   
+}
+footer
+{
+    position: absolute;
+    bottom: 0;
+    background: gray;
+    width: 100%;
+    text-align: center;
+    padding: 30px;
+    border-top: 8px solid #076143;
+}
+footer>p {
+    color:white
+}
+.photo img
+{
+    width: 200px;
+    margin: 10px;
+    position: relative;
+}
+.sekiller p
+{
+    font-size: 1.5em;
+    background: rgb(70, 113, 240);
+    text-align: center;
+    margin-right: 10px;
+    position: absolute;
+    margin-top: -50px;
+    box-sizing: border-box;
+    width: 200px;
+    margin-left: 10px;
+   
+}
+.photo
+{
+    background: white;
+    border: 1px solid black;
+
+}
+.photo h2
+{
+    color: #076143;
+  
+
+}
+.port img
+{
+    width: 20px;
+}
+.cont h2
+{
+   color: #076143;
+   font-size: 2em;
+margin-bottom: 30px;
+margin-left: 30px;
+margin-top: 30px;
+}
+.main-for
+{
+    background-color: white;
+    
+}
+form li
+{
+    list-style: none;
+    display: block;
+    
+}
+input
+{
+    display: block;
+    padding: 5px;
+    width: 100%;
+    margin: 5px 0;
+}
+label
+{
+    font-size: 1.4em;
+    color: gray;
+
+}
+textarea{
+    
+    display: block;
+    width: 100%;
+    padding: 50px;
+}
+#btncontact
+{
+    background-color: #076143;
+    color: white;
+    width: 15%;
+    margin-bottom: 30px;
+    padding: 10px;
+    margin-left: 40px;
+}
